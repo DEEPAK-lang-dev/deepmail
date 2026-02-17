@@ -1,0 +1,8 @@
+{
+  "name": "17 DeepMail",
+  "description": "A unified cloud storage and modern email platform inspired by Gmail, featuring AI-powered productivity tools, file sharing, and seamless collaboration.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
